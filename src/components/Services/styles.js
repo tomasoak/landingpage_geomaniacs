@@ -37,8 +37,9 @@ export const HeaderName = styled.div`
 `;
 
 export const HeaderUnderline = styled.div`
-  width: 80px;
+  width: 60px;
   border-bottom: 3px solid #2737cf;
+  border-radius: 5px;
 
   &:hover {
     transition: 0.1s;
@@ -160,7 +161,14 @@ export const ServiceButton = styled.div`
 `;
 
 export const Footer = styled.div`
-  img {
-    width: 100%;
-  }
+  width: 100%;
+  height: 60px;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 31, 147, 0.9) 0%,
+    rgba(60, 63, 220, 0.9) 25%,
+    rgba(83, 118, 208, 0.9) 50%,
+    rgba(92, 80, 237, 0.9) 75%,
+    rgba(154, 56, 240, 0.9) 100%
+  );
 `;

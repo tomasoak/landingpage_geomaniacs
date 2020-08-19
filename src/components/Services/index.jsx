@@ -27,8 +27,6 @@ import {
   Footer,
 } from './styles';
 
-import AboutFooter from '../../assets/about_footer.png';
-
 function Services() {
   return (
     <Element name="services">
@@ -90,9 +88,7 @@ function Services() {
           </ServicesContainer>
         </Section>
       </Container>
-      <Footer>
-        <img src={AboutFooter} alt="AboutFooter" />
-      </Footer>
+      <Footer />
     </Element>
   );
 }

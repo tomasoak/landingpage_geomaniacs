@@ -60,7 +60,7 @@ export const NavItems = styled.div`
 
       color: #FFF;
       
-      font-size: 36px;
+      font-size: 34px;
       font-weight: normal;
       font-style: normal;
       font-family: 'Staatliches', cursive;

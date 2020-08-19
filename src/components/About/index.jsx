@@ -17,7 +17,6 @@ import {
 } from './styles';
 
 import { ReactComponent as AboutImg } from '../../assets/undraw_about.svg';
-import AboutFooter from '../../assets/about_footer.png';
 
 function About() {
   return (
@@ -67,9 +66,7 @@ function About() {
             <DescriptionButton>Learn more</DescriptionButton>
           </Description>
         </ContainerInfo>
-        <Footer>
-          <img src={AboutFooter} alt="AboutFooter" />
-        </Footer>
+        <Footer />
       </Container>
     </Element>
   );

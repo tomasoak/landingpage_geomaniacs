@@ -93,3 +93,16 @@ export const ImageContent = styled.div`
     }
   }
 `;
+
+export const Footer = styled.div`
+  width: 100%;
+  height: 60px;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 31, 147, 0.9) 0%,
+    rgba(60, 63, 220, 0.9) 25%,
+    rgba(83, 118, 208, 0.9) 50%,
+    rgba(92, 80, 237, 0.9) 75%,
+    rgba(154, 56, 240, 0.9) 100%
+  );
+`;

@@ -30,8 +30,9 @@ export const HeaderDescription = styled.div`
 `;
 
 export const HeaderUnderline = styled.div`
-  width: 80px;
+  width: 60px;
   border-bottom: 3px solid #2737cf;
+  border-radius: 5px;
 
   &:hover {
     transition: 0.1s;

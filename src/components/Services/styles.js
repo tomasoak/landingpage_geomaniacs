@@ -49,11 +49,12 @@ export const HeaderUnderline = styled.div`
 export const HeaderDescription = styled.div`
   margin-top: 32px;
 
-  font-family: 'Roboto';
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 24px;
   font-style: italic;
   line-height: 37px;
   text-align: center;
+  color: #4c4c4c;
 `;
 
 export const ServicesContainer = styled.div`
@@ -99,6 +100,7 @@ export const ServiceLogo = styled.div`
 
 export const ServiceDescription = styled.div`
   margin: 36px 15px 0 15px;
+
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 26px;
   line-height: 30px;

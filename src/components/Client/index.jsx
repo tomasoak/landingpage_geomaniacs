@@ -73,8 +73,8 @@ function Testemonials() {
             <HeaderUnderline />
           </Header>
           <HeaderDescription>
-            Lorem ipsum, or lipsum as it is sometimes known, is dummy text used
-            in laying out print, graphic or web designs.
+            These clients and high-level technicians really enjoy our work and
+            services.
           </HeaderDescription>
           <Slider
             arrows={false}

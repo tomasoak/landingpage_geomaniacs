@@ -3,6 +3,8 @@ import styled from 'styled-components';
 export const Container = styled.div`
   height: 700px;
   width: 100%;
+
+  margin-bottom: 150px;
 `;
 
 export const Section = styled.div`
@@ -47,7 +49,7 @@ export const Header = styled.div`
 export const HeaderTitle = styled.div`
   margin: 12px 0;
 
-  font-family: 'Roboto', cursive;
+  font-family: 'Voltaire', sans-serif;
   font-size: 40px;
   line-height: 54px;
 `;
@@ -64,17 +66,18 @@ export const HeaderUnderline = styled.div`
 `;
 
 export const HeaderDescription = styled.div`
-  margin-top: 32px;
+  margin-top: 12px;
 
-  font-family: 'Roboto';
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 24px;
   font-style: italic;
   line-height: 37px;
   text-align: center;
+  color: #4c4c4c;
 `;
 
 export const TestimonialItem = styled.div`
-  margin-top: 32px;
+  margin-top: 52px;
   box-sizing: content-box;
   min-height: 200px;
 

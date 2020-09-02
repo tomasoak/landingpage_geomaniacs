@@ -21,7 +21,6 @@ export const Section = styled.div`
 
 export const Header = styled.div`
   margin-top: 85px;
-  /* height: 100px; */
 
   display: flex;
   flex-direction: column;
@@ -29,7 +28,7 @@ export const Header = styled.div`
 `;
 
 export const HeaderName = styled.div`
-  font-family: 'Roboto', cursive;
+  font-family: 'Voltaire', sans-serif;
   font-size: 40px;
   line-height: 54px;
 
@@ -100,7 +99,7 @@ export const ServiceLogo = styled.div`
 
 export const ServiceDescription = styled.div`
   margin: 36px 15px 0 15px;
-  font-family: 'Roboto';
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 26px;
   line-height: 30px;
   text-align: center;

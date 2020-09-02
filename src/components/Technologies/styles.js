@@ -24,7 +24,7 @@ export const Header = styled.div`
 export const HeaderDescription = styled.div`
   margin: 12px 0;
 
-  font-family: 'Roboto', cursive;
+  font-family: 'Voltaire', sans-serif;
   font-size: 40px;
   line-height: 54px;
 `;
@@ -86,9 +86,10 @@ export const DescriptionHeader = styled.div`
 
 export const DescriptionPage = styled.div`
   margin-top: -10px;
-
   text-align: right;
   color: #434343;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
   font-style: italic;
 
   order: 2;
@@ -105,6 +106,9 @@ export const ListItem = styled.div`
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
+
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
 `;
 
 export const Icon = styled.div`

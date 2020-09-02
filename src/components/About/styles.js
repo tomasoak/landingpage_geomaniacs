@@ -52,6 +52,8 @@ export const DescriptionPage = styled.div`
   order: 2;
 
   text-align: right;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
   color: #434343;
   font-style: italic;
 `;
@@ -67,6 +69,9 @@ export const ListItem = styled.li`
   flex-direction: row;
   justify-content: flex-end;
   align-items: center;
+
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
 `;
 
 export const Icon = styled.i`

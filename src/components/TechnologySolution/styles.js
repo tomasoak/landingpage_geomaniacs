@@ -37,6 +37,7 @@ export const TechContent = styled.div`
 export const DescriptionHeader = styled.div`
   width: 525px;
   height: 100px;
+  margin-bottom: -20px;
 
   font-family: 'Sriracha', cursive;
   font-size: 36px;
@@ -48,6 +49,8 @@ export const DescriptionPage = styled.div`
   margin-top: -10px;
   width: 90%;
   text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
   color: #434343;
   font-style: italic;
 
@@ -64,6 +67,9 @@ export const ListItem = styled.div`
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
+
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
 `;
 export const Icon = styled.div`
   padding: 10px;

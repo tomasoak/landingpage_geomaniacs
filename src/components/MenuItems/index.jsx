@@ -31,8 +31,16 @@ const MenuItems = () => {
           Clients
         </Link>
       </MeunListItem>
-      <MeunListItem>Team</MeunListItem>
-      <MeunListItem>Contact</MeunListItem>
+      <MeunListItem>
+        <Link to="team" smooth duration={500}>
+          Team
+        </Link>
+      </MeunListItem>
+      <MeunListItem>
+        <Link to="contact" smooth duration={500}>
+          Contact
+        </Link>
+      </MeunListItem>
     </MenuList>
   );
 };

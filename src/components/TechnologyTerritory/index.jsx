@@ -29,12 +29,12 @@ function TechTerritory() {
             </ImageContent>
             <TechContent>
               <DescriptionHeader>
-                Sustainable territorial development
+                Territorial GeoSpatial Intelligence Development
               </DescriptionHeader>
 
               <DescriptionPage>
-                GEOManiacs counts with relevant spatial data scientists on the
-                main sectors of society to bring insightful solutions
+                GEOManiacs counts with relevant geospatial data scientists on
+                the main sectors of society to bring insightful solutions
               </DescriptionPage>
 
               <DescriptionItems>

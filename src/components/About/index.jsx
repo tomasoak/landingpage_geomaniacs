@@ -59,7 +59,7 @@ function About() {
                 <Icon>
                   <FiCheckCircle />
                 </Icon>
-                React Scroll Library to vertical scrolling effect
+                React Scroll Library
               </ListItem>
             </DescriptionItems>
 

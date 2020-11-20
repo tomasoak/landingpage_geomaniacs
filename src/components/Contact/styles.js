@@ -2,15 +2,13 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   width: 100%;
-  height: 400px;
-
-  /* background: #0f254e; */
+  height: 380px;
 `;
 
 export const Section = styled.div`
   width: 100%;
-  margin-top: 40px;
-  padding: 5px 50px 0 160px;
+  margin: 40px 0 20px 0;
+  padding: 40px 50px 0 160px;
 
   display: flex;
   flex-direction: row;
@@ -29,7 +27,8 @@ export const FooterItem = styled.div`
     padding-bottom: 20px;
     font-size: 30px;
     color: #6d6d6d;
-    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    font-family: 'Staatliches', cursive;
   }
 
   a {

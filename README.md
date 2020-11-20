@@ -3,6 +3,7 @@
                   
 <h4 align="center"> :pushpin: Application yet non-responsive :pushpin: </h4>
 
+---
 ### Technologies :rocket:
 - **[ReactJS](https://reactjs.org/)** - version 16.13.1
 - **[Styled Components](https://styled-components.com/)** - version 5.1.1

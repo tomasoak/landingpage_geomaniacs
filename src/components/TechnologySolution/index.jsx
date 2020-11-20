@@ -34,7 +34,7 @@ function TechSolution() {
                 <Icon>
                   <FiCheckCircle />
                 </Icon>
-                Web-GIS Platform
+                GeoSpatial BI
               </ListItem>
               <ListItem>
                 <Icon>
@@ -46,13 +46,19 @@ function TechSolution() {
                 <Icon>
                   <FiCheckCircle />
                 </Icon>
-                GeoSpatial BI
+                Web-GIS Platform
               </ListItem>
               <ListItem>
                 <Icon>
                   <FiCheckCircle />
                 </Icon>
-                Location Intelligence
+                Earth Observation
+              </ListItem>
+              <ListItem>
+                <Icon>
+                  <FiCheckCircle />
+                </Icon>
+                Artificial GeoLocation Intelligence
               </ListItem>
             </DescriptionItems>
           </TechContent>

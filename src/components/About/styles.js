@@ -101,6 +101,7 @@ export const DescriptionButton = styled.div`
   color: #ffffff;
   border: 1px solid #7e5dec;
   background-color: #7e5dec;
+  border-radius: 2.5px;
 
   cursor: pointer;
 

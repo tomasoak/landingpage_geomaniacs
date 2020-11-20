@@ -15,7 +15,7 @@ import chet from '../../assets/chetBaker.png';
 import miles from '../../assets/milesDavis.jpg';
 import herbie from '../../assets/herbieHancock.jpg';
 import ella from '../../assets/ellaFitzgerald.jpg';
-import john from '../../assets/johnColtrane_old.jpg';
+import john from '../../assets/johnColtrane.jpg';
 
 import {
   Container,

@@ -107,6 +107,29 @@ export const Subscribe = styled.div`
   }
 `;
 
+export const CodeSource = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 12px;
+
+  p {
+    padding-bottom: 6px;
+    color: #6d6d6d;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+
+  a {
+    transition: color 0.3s;
+    color: #6d6d6d;
+    margin: 0 10px;
+
+    &:hover {
+      color: #4c4c4c;
+    }
+  }
+`;
+
 export const Footer = styled.div`
   width: 100%;
   height: 60px;

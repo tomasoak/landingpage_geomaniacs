@@ -1,5 +1,6 @@
 import React from 'react';
 import { Element } from 'react-scroll';
+import { FiGithub } from 'react-icons/fi';
 
 import {
   Container,
@@ -7,6 +8,7 @@ import {
   FooterItem,
   Subscribe,
   SubsHeader,
+  CodeSource,
   Footer,
 } from './styles';
 
@@ -61,6 +63,12 @@ function Contact() {
           </FooterItem>
         </Section>
       </Container>
+      <CodeSource>
+        <p>Open Code on </p>
+        <a href="https://github.com/tomasoak/landingpage_geomaniacs">
+          <FiGithub size={30} />
+        </a>
+      </CodeSource>
       <Footer />
     </Element>
   );

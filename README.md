@@ -1,7 +1,9 @@
 <h1 align="center"> Fake GeoSpatial Company Landing Page  </h1>
-<h3 align="center"> Products and services showcase </h2>
+<h3 align="center"> Products and services showcase </h3>
+
+<h3 align="center"> Access the deploy at: https://geomaniacs-landingpage.netlify.app/ </h3>
                   
-<h4 align="center"> :pushpin: Application yet non-responsive :pushpin: </h4>
+<h4 align="center"> :pushpin: Application non-responsive yet :pushpin: </h4>
 
 ### Technologies :rocket:
 - **[ReactJS](https://reactjs.org/)** - version 16.13.1
